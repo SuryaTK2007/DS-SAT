@@ -1,0 +1,26 @@
+batch,defect_type,defect_count,quality_status
+B001,Surface Crack,3,Pass
+B002,Dimensional,8,Fail
+B003,Surface Crack,2,Pass
+B004,Porosity,12,Fail
+B005,surface crack,5,PASS
+B006,None,0,Pass
+B007,Dimensional,15,Fail
+B008,Porosity,4,Pass
+B009,SURFACE CRACK,7,fail
+B010,None,0,Pass
+B011,Dimensional,11,Fail
+B012,Surface Crack,2,Pass
+B013,porosity,9,Fail
+B014,None,1,Pass
+B015,Surface Crack,6,FAIL
+B016,Dimensional,3,Pass
+B017,None,0,Pass
+B018,Porosity,14,Fail
+B019,Surface crack,4,Pass
+B020,DIMENSIONAL,10,Fail
+B021,None,0,Pass
+B022,Surface Crack,18,Fail
+B023,Porosity,5,Pass
+B024,Dimensional,7,Fail
+B025,None,1,Pass

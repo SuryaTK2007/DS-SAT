@@ -1,0 +1,13 @@
+machine,age_band,operating_hours,line
+M101,0-2 years,1200,L1
+M102,3-5 years,4500,L1
+M103,6-10 years,8200,L2
+M104,0-2 years,900,L2
+M105,3-5 years,5100,L3
+M106,6-10 years,7800,L3
+M107,10+ years,15000,L1
+M108,3-5 years,3900,L2
+M109,0-2 years,1100,L3
+M110,10+ years,18500,L2
+M111,6-10 years,9200,L1
+M112,3-5 years,4200,L3
